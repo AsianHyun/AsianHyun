@@ -1,1 +1,1 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:f867ff,100:9001ff&height=140&text=Soyun💕&fontAlignY=30&fontAlign=45&fontSize=45)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:f867ff,100:9001ff&height=140&text=Soyun💕&fontAlignY=30&fontAlign=15&fontSize=45)
