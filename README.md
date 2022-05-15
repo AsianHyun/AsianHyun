@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=pink&height=250&section=header&text=Kim%20Hyeon&fontSize=80)
+![header](https://capsule-render.vercel.app/api?type=waving)
 
 
 
