@@ -1,1 +1,1 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:f867ff,100:9001ff&height=111&text=Kim%20Soyun)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:f867ff,100:9001ff&height=111&text=Soyun)
